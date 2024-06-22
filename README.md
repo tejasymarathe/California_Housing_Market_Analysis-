@@ -1,5 +1,7 @@
 # California Housing Data Analysis Project
 
+![Alt text](image.jpeg)
+
 ## Problem Statement
 
 This project involves analyzing the California housing dataset to extract meaningful insights and demonstrate data science skills using Python. The analysis covers various aspects of the dataset, including income distribution, housing age distribution, relationships between variables, handling missing data, and geographical data visualization.
